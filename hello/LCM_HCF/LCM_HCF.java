@@ -14,22 +14,38 @@ public class LCM_HCF {
                 hcf = i;
             }
         }
-        /*Lcm 
-        int lcm=(a>b)?a:b;
-        while(true)
-        {
-        if(lcm%a==0 && lcm%b==0)
-        {
-        break;
-        }
-        lcm++
-        }
-        */
+        /*
+         * Lcm
+         * int lcm=(a>b)?a:b;
+         * while(true)
+         * {
+         * if(lcm%a==0 && lcm%b==0)
+         * {
+         * break;
+         * }
+         * lcm++
+         * }
+         */
+
+        /*
+         * method 2
+         * while(a!=b)
+         * {
+         * if(a>b)
+         * {
+         * a=a-b;
+         * }
+         * else
+         * {
+         * b=b-a;
+         * }
+         * }
+         * hcf =a;
+         */
 
         int lcm = (a * b) / hcf;
         System.out.println("The Lcm and Hcf of two numbers is :" + lcm + " " + hcf);
 
-    
     }
 
 }
