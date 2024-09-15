@@ -1,9 +1,15 @@
-Area Of Circle Java Program
-Area Of Triangle
-Area Of Rectangle Program
+Area Of Circle Java Program.
+
+Area Of Triangle.
+
+Area Of Rectangle Program.
+
 Area Of Isosceles Triangle
+
 Area Of Parallelogram
+
 Area Of Rhombus
+
 Area Of Equilateral Triangle
 Perimeter Of Circle
 Perimeter Of Equilateral Triangle
