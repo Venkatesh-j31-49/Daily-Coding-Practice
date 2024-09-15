@@ -14,16 +14,9 @@
 
 7.Area Of Equilateral Triangle
 
-8.Perimeter Of Circle
-
-9.Perimeter Of Equilateral Triangle
-
-10.Perimeter Of Parallelogram
-
-11.Perimeter Of Rectangle
+8.Perimeter Of Circle,Equilateral Triangle,Parallelogram,Rectangle and square
 
 
-12.Perimeter Of Square
 
 
 
