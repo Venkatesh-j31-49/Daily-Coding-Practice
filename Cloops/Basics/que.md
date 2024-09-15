@@ -10,7 +10,7 @@
 
 5.Area Of Parallelogram
 
-6.Area Of Rhombus
+6.Area and perimeter Of Rhombus
 
 7.Area Of Equilateral Triangle
 
@@ -25,9 +25,9 @@
 
 12.Perimeter Of Square
 
-13.Perimeter Of Rhombus
 
-14.Volume Of Cone Java Program
+
+13.Volume Of Cone Java Program
 
 15.Volume Of Prism
 
