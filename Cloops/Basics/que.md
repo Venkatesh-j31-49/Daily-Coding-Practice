@@ -1,8 +1,8 @@
 1.Area Of Circle Java Program.
 
-2.Area Of Triangle.
+2.Area Of Triangle
 
-3.Area Of Rectangle Program.
+3.Area Of Rectangle Program
 
 4.Area Of Isosceles Triangle
 
@@ -12,13 +12,14 @@
 
 7.Area Of Equilateral Triangle
 
-8.Perimeter Of Circle.
+8.Perimeter Of Circle
 
 9.Perimeter Of Equilateral Triangle
 
 10.Perimeter Of Parallelogram
 
 11.Perimeter Of Rectangle
+
 
 12.Perimeter Of Square
 
@@ -46,6 +47,6 @@
 
 24.Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
 
-24.Take integer inputs till the user enters 0 and print the largest number from all.
+25.Take integer inputs till the user enters 0 and print the largest number from all.
 
 26.Addition Of Two Numbers
