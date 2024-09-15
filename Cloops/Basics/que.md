@@ -16,32 +16,18 @@
 
 8.Perimeter Of Circle,Equilateral Triangle,Parallelogram,Rectangle and square
 
+9.Volume Of Cone,Prism,ylinder,Sphere and Pyramid.
 
 
 
+10.Fibonacci Series In Java Programs
 
-13.Volume Of Cone Java Program
+11.Subtract the Product and Sum of Digits of an Integer
 
-15.Volume Of Prism
+12.Input a number and print all the factors of that number (use loops).
 
-16.Volume Of Cylinder
+13.Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
 
-17.Volume Of Sphere
+14.Take integer inputs till the user enters 0 and print the largest number from all.
 
-18.Volume Of Pyramid
-
-19.Curved Surface Area Of Cylinder
-
-20.Total Surface Area Of Cube
-
-21.Fibonacci Series In Java Programs
-
-22.Subtract the Product and Sum of Digits of an Integer
-
-23.Input a number and print all the factors of that number (use loops).
-
-24.Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
-
-25.Take integer inputs till the user enters 0 and print the largest number from all.
-
-26.Addition Of Two Numbers
+15.Addition Of Two Numbers
