@@ -17,3 +17,5 @@
 9.LCM Of Two Numbers
 
 10.Perfect Number In Java
+
+11.Sum Of A Digits Of Number
