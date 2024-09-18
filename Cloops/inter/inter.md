@@ -15,3 +15,5 @@
 8.HCF Of Two Numbers Program
 
 9.LCM Of Two Numbers
+
+10.Perfect Number In Java
