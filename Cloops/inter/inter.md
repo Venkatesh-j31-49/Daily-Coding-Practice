@@ -1,0 +1,17 @@
+1.Calculate Average Of N Numbers
+
+2.Java Program Vowel Or Consonant
+
+3.Check Leap Year Or Not
+
+4.Power In Java
+
+5.Calculate Distance Between Two Points
+
+6.Sum Of N Numbers
+
+7.Reverse A String In Java
+
+8.HCF Of Two Numbers Program
+
+9.LCM Of Two Numbers
