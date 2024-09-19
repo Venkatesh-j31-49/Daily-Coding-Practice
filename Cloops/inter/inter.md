@@ -19,3 +19,5 @@
 10.Perfect Number In Java
 
 11.Sum Of A Digits Of Number
+
+12.Armstrong Number In Java
