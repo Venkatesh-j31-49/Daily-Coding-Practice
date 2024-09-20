@@ -21,3 +21,7 @@
 11.Sum Of A Digits Of Number
 
 12.Armstrong Number In Java
+
+13.Compound Interest Java Program
+
+14.Find if a number is palindrome or not
