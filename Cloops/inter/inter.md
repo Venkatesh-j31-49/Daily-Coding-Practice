@@ -25,3 +25,5 @@
 13.Compound Interest Java Program
 
 14.Find if a number is palindrome or not
+
+15.Find Ncr & Npr
