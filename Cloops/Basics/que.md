@@ -22,12 +22,18 @@
 
 10.Fibonacci Series In Java Programs
 
-11.Subtract the Product and Sum of Digits of an Integer
+11.Display the digits 
 
-12.Input a number and print all the factors of that number (use loops).
+12.sum of  the digits of a number
 
-13.Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
+13.Count the digits of a number
 
-14.Take integer inputs till the user enters 0 and print the largest number from all.
+Subtract the Product and Sum of Digits of an Integer
 
-15.Addition Of Two Numbers
+Input a number and print all the factors of that number (use loops).
+
+Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
+
+Take integer inputs till the user enters 0 and print the largest number from all.
+
+Addition Of Two Numbers
