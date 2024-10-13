@@ -28,7 +28,7 @@
 
 13.Count the digits of a number
 
-Subtract the Product and Sum of Digits of an Integer
+14.Subtract the Product and Sum of Digits of an Integer
 
 Input a number and print all the factors of that number (use loops).
 
