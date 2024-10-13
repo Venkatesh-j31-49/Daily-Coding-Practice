@@ -30,7 +30,7 @@
 
 14.Subtract the Product and Sum of Digits of an Integer
 
-Input a number and print all the factors of that number (use loops).
+15.Input a number and print all the factors of that number (use loops).
 
 Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
 
