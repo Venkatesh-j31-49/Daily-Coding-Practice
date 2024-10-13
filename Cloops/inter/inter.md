@@ -31,3 +31,5 @@
 16.factorial
 
 17.Reverse a number
+
+18.Display a number in words even zeroes
