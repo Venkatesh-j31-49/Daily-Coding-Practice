@@ -33,3 +33,7 @@
 17.Reverse a number
 
 18.Display a number in words even zeroes
+
+19.Ap Series
+
+20.Gp Series
