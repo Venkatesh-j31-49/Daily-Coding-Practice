@@ -8,7 +8,7 @@ public class p4 {
             for(int j=1;j<=5;j++)
             {
                 c++;
-                System.out.print(c+" ");
+                System.out.format("%02d ",c);
             }
             System.out.println();
         }
